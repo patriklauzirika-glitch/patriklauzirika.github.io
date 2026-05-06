@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Patrik Lauzirika Uriarte
 ---
 
 # Welcome to My Portfolio
