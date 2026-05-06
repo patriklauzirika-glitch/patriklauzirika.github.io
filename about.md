@@ -24,8 +24,7 @@ I'm a Finance professional specializing in Business Intelligence (BI), focused o
 ### Programming Languages & Tools
 - Python (Data Analysis)
 - SQL (Database Queries)
-- JavaScript / TypeScript
-- Power BI / Tableau / Looker
+- Power BI
 - Excel (Advanced)
 
 ### Technologies & Tools
@@ -33,7 +32,6 @@ I'm a Finance professional specializing in Business Intelligence (BI), focused o
 - ETL Processes
 - Git & GitHub
 - Data Analytics Platforms
-- Cloud Analytics (AWS / Azure)
 
 ### Soft Skills
 - Strategic Thinking
