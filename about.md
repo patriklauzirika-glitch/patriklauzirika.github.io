@@ -6,47 +6,59 @@ permalink: /about/
 
 # About Me
 
-Hello! I'm **Patriklauzirika**, a passionate developer with a love for building things and solving problems through code.
+Hello! I'm **Patriklauzirika**, a Finance & Business Intelligence professional with a passion for data-driven insights and solving complex financial problems.
 
 ## Background
 
-I'm a software developer interested in creating meaningful projects and contributing to the open-source community. I enjoy learning new technologies and continuously improving my craft.
+I'm a Finance professional specializing in Business Intelligence (BI), focused on transforming raw financial data into actionable insights. I combine financial expertise with analytical and technical skills to drive informed decision-making and business strategy.
 
 ## Skills
 
-### Programming Languages
+### Finance & BI
+- Financial Analysis & Modeling
+- Business Intelligence & Analytics
+- Data Visualization & Reporting
+- Dashboard Development
+- Financial Forecasting & Budgeting
+
+### Programming Languages & Tools
+- Python (Data Analysis)
+- SQL (Database Queries)
 - JavaScript / TypeScript
-- Python
-- Java
-- HTML & CSS
+- Power BI / Tableau / Looker
+- Excel (Advanced)
 
 ### Technologies & Tools
+- Data Warehousing
+- ETL Processes
 - Git & GitHub
-- Jekyll & Static Site Generation
-- Web Development
-- Database Design
+- Data Analytics Platforms
+- Cloud Analytics (AWS / Azure)
 
 ### Soft Skills
+- Strategic Thinking
+- Financial Analysis
+- Data Storytelling
+- Cross-functional Collaboration
 - Problem Solving
-- Collaborative Development
-- Documentation
-- Continuous Learning
 
 ## Interests
 
-- 💻 Full-stack web development
-- 🔧 Open-source contributions
-- 📚 Technical writing
-- 🚀 Building scalable applications
+- 📊 Financial data analysis & visualization
+- 📈 Building predictive financial models
+- 🎯 Optimizing business processes through BI
+- 🔍 Uncovering insights from complex datasets
+- 📚 Bridging finance and technology
 
 ## Education & Experience
 
-I'm committed to continuous growth and development. My journey in tech has taught me the importance of:
-- Clean, maintainable code
-- Effective communication
-- Staying updated with industry trends
-- Helping others learn and grow
+I'm committed to continuous growth in Finance and BI. My journey has taught me the importance of:
+- Data accuracy and integrity
+- Clear communication of complex insights
+- Staying updated with financial trends and technologies
+- Combining financial expertise with technical innovation
+- Supporting stakeholders with data-driven recommendations
 
 ## Let's Connect!
 
-Interested in collaborating or just want to chat about tech? Feel free to reach out via [my contact page](/contact/)!
+Interested in discussing finance, BI projects, or data analytics? Feel free to reach out via [my contact page](/contact/)!
