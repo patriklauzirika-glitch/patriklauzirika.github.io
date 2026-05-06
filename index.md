@@ -1,16 +1,28 @@
+---
+layout: default
+title: Home
+---
+
 # Welcome to My Portfolio
 
-Hi! I'm **Patriklauzirika**, a passionate developer and tech enthusiast.
+Hi! I'm **Patriklauzirika**, a Finance & Business Intelligence professional dedicated to transforming financial data into actionable insights.
 
 ## About Me
 
-Welcome to my corner of the internet! This is where I showcase my projects, share my thoughts, and document my journey in software development.
+I specialize in Business Intelligence (BI) within the finance sector, combining financial expertise with data analytics to drive strategic decision-making and business growth.
+
+## Featured Skills
+
+- **Business Intelligence:** Power BI, Tableau, Looker, Dashboard Development
+- **Financial Analysis:** Modeling, Forecasting, Budget Analysis, KPI Tracking
+- **Data & Analytics:** Python, SQL, ETL Processes, Data Warehousing
+- **Tools & Platforms:** Azure, AWS, Excel (Advanced), Git
 
 ## Featured Projects
 
-- **Project 1** - A brief description of your first project
-- **Project 2** - Details about your second project
-- **Project 3** - Information about your third project
+- **Financial Dashboard Project** - Real-time BI dashboards for financial reporting
+- **Data Analysis Project** - Financial forecasting using Python & data analytics
+- **ETL Pipeline** - Data warehouse optimization for finance operations
 
 ## Get In Touch
 

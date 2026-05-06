@@ -1,7 +1,7 @@
-title: Patrik Lauzirika Uriarte | Portfolio
-description: Espacio para mostrar proyectos de BI
-author: Patrik Lauzirika Uriarte
-email: patriklauzirika@gmail.com
+title: Patriklauzirika's Finance & BI Portfolio
+description: Finance & Business Intelligence Professional | Data-Driven Insights & Analytics
+author: Patriklauzirika
+email: your-email@example.com
 
 # Site settings
 url: "https://patriklauzirika.github.io"
@@ -9,7 +9,8 @@ baseurl: ""
 
 # Social media & links
 github_username: patriklauzirika-glitch
-linkedin_username: Patrik Lauzirika Uriarte
+linkedin_username: your-linkedin-username
+twitter_username: your-twitter-handle
 
 # Build settings
 markdown: kramdown
