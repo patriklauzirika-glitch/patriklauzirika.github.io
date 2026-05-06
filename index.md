@@ -5,30 +5,30 @@ title: Home
 
 # Welcome to My Portfolio
 
-Hi! I'm **Patriklauzirika**, a Finance & Business Intelligence professional dedicated to transforming financial data into actionable insights.
+Hi! I'm **Patrik Lauzirika Uriarte**, a Finance & Business Intelligence professional dedicated to transforming financial data into actionable insights.
 
 ## About Me
 
-I specialize in Business Intelligence (BI) within the finance sector, combining financial expertise with data analytics to drive strategic decision-making and business growth.
+I'm a Finance professional specializing in Business Intelligence (BI), focused on transforming raw financial data into actionable insights. I combine financial expertise with analytical and technical skills to drive informed decision-making and business strategy.
 
 ## Featured Skills
 
-- **Business Intelligence:** Power BI, Tableau, Looker, Dashboard Development
-- **Financial Analysis:** Modeling, Forecasting, Budget Analysis, KPI Tracking
-- **Data & Analytics:** Python, SQL, ETL Processes, Data Warehousing
-- **Tools & Platforms:** Azure, AWS, Excel (Advanced), Git
+Finance & BI
+Financial Analysis & Modeling
+Business Intelligence & Analytics
+Data Visualization & Reporting
+Dashboard Development
+Financial Forecasting & Budgeting
 
 ## Featured Projects
 
-- **Financial Dashboard Project** - Real-time BI dashboards for financial reporting
-- **Data Analysis Project** - Financial forecasting using Python & data analytics
-- **ETL Pipeline** - Data warehouse optimization for finance operations
+TBD
 
 ## Get In Touch
 
-- 📧 Email: your-email@example.com
-- 🔗 GitHub: [github.com/patriklauzirika-glitch](https://github.com/patriklauzirika-glitch)
-- 💼 LinkedIn: [Add your LinkedIn URL]
+- 📧 Email: patriklauzirika@gmail.com
+- 🔗 GitHub:https://github.com/plauzirikauriarte
+- 💼 LinkedIn:
 
 ---
 
