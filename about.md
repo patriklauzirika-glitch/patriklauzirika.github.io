@@ -6,7 +6,7 @@ permalink: /about/
 
 # About Me
 
-Hello! I'm **Patriklauzirika**, a Finance & Business Intelligence professional with a passion for data-driven insights and solving complex financial problems.
+Hello! I'm **Patrik Lauzirika Uriarte**, a Finance & Business Intelligence professional with a passion for data-driven insights and solving complex financial problems.
 
 ## Background
 
