@@ -1,22 +1,23 @@
 # Welcome to My Portfolio
 
-Hello! I'm **Patriklauzirika**, a passionate developer on GitHub.
+Hi! I'm **Patriklauzirika**, a passionate developer and tech enthusiast.
 
 ## About Me
 
-This is my personal GitHub Pages site where I showcase my projects and interests.
+Welcome to my corner of the internet! This is where I showcase my projects, share my thoughts, and document my journey in software development.
 
 ## Featured Projects
 
-- Project 1: Coming soon...
-- Project 2: Coming soon...
-- Project 3: Coming soon...
+- **Project 1** - A brief description of your first project
+- **Project 2** - Details about your second project
+- **Project 3** - Information about your third project
 
-## Get in Touch
+## Get In Touch
 
-- GitHub: [@patriklauzirika-glitch](https://github.com/patriklauzirika-glitch)
-- Email: your-email@example.com
+- 📧 Email: your-email@example.com
+- 🔗 GitHub: [github.com/patriklauzirika-glitch](https://github.com/patriklauzirika-glitch)
+- 💼 LinkedIn: [Add your LinkedIn URL]
 
 ---
 
-*This site is built with Jekyll and hosted on GitHub Pages.*
+**Last updated**: May 2026
