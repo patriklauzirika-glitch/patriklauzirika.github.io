@@ -26,6 +26,7 @@ I'm a Finance professional specializing in Business Intelligence (BI), focused o
 - SQL (Database Queries)
 - Power BI
 - Excel (Advanced)
+- R
 
 ### Technologies & Tools
 - Data Warehousing
