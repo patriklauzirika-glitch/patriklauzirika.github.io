@@ -1,19 +1,22 @@
 title: Patriklauzirika's Portfolio
-description: Welcome to my GitHub Pages site
-theme: jekyll-theme-minimal
+description: Welcome to my GitHub Pages site - Full-stack Developer & Tech Enthusiast
+author: Patriklauzirika
+email: your-email@example.com
 
 # Site settings
 url: "https://patriklauzirika.github.io"
 baseurl: ""
 
-# Author info
-author: Patriklauzirika
-email: your-email@example.com
+# Social media & links
+github_username: patriklauzirika-glitch
+linkedin_username: your-linkedin-username
+twitter_username: your-twitter-handle
 
 # Build settings
 markdown: kramdown
 kramdown:
   input: GFM
+  hard_wrap: false
 
 # Plugins
 plugins:
@@ -25,3 +28,7 @@ exclude:
   - README.md
   - LICENSE
   - Gemfile
+  - Gemfile.lock
+
+# SEO settings
+title_separator: "|"
