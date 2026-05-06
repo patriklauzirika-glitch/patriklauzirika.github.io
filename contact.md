@@ -11,7 +11,7 @@ I'm always happy to hear from fellow developers, potential collaborators, or any
 ## Contact Information
 
 ### Email
-📧 **[your-email@example.com](mailto:your-email@example.com)**
+📧 **[patriklauzirika@gmail.com](mailto:patriklauzirika@gmail.com)**
 
 *I typically respond to emails within 24-48 hours.*
 
@@ -28,13 +28,6 @@ Check out my repositories, open-source contributions, and latest projects.
 💼 [Add your LinkedIn URL here](https://www.linkedin.com)
 
 Connect with me for professional opportunities and networking.
-
-### Twitter/X
-🐦 [Add your Twitter handle here](https://twitter.com)
-
-Follow for tech updates and insights.
-
----
 
 ## How I Can Help
 
