@@ -6,7 +6,7 @@ email: patriklauzirika@gmail.com
 # Site settings
 url: "https://patriklauzirika.github.io"
 baseurl: ""
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 # Social media & links
 github_username: patriklauzirika-glitch
