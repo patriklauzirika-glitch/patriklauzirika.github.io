@@ -13,7 +13,7 @@ I'm always interested in hearing about Finance & BI opportunities, collaboration
 ## Direct Contact
 
 ### Email
-📧 **[your-email@example.com](mailto:your-email@example.com)**
+📧 **[patriklauzirika@gmail.com](mailto:patriklauzirika@gmail.com)**
 
 I typically respond to emails within 24-48 hours. Please include details about your inquiry so I can better assist you.
 
@@ -22,30 +22,20 @@ I typically respond to emails within 24-48 hours. Please include details about y
 ## Professional Profiles
 
 ### GitHub
-🔗 **[github.com/patriklauzirika-glitch](https://github.com/patriklauzirika-glitch)**
+🔗 **[github.com/patriklauzirika](https://github.com/patriklauzirika)**
 
 Check out my repositories, code projects, and contributions. You'll find:
 - BI dashboard projects
-- Python data analysis scripts
 - SQL queries and database work
-- Open-source contributions
 
 ### LinkedIn
-💼 **[linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)**
+💼 **[linkedin.com/in/patrik-lauzirika-uriarte-7655b71a5](https://www.linkedin.com/in/patrik-lauzirika-uriarte-7655b71a5)**
 
 Connect with me for:
 - Professional networking
 - Career opportunities
 - Industry insights and updates
 - Collaboration opportunities
-
-### Twitter / X
-𝕏 **[@yourhandle](https://twitter.com/yourhandle)**
-
-Follow for:
-- BI and data analytics insights
-- Finance technology updates
-- Industry trends and discussion
 
 ---
 
@@ -94,7 +84,6 @@ I'm particularly interested in projects involving:
 
 - 📊 **Business Intelligence:** Dashboard design, reporting solutions, analytics platforms
 - 💰 **Financial Analysis:** Forecasting, modeling, budget analysis, variance reporting
-- 📈 **Data Engineering:** ETL processes, data warehousing, data pipeline development
 - 🔍 **Data Science:** Predictive analytics, machine learning for finance, anomaly detection
 - 🎯 **Strategic Analytics:** Business metrics, KPI development, strategic insights
 
@@ -120,8 +109,7 @@ If you have a technical project, [open an issue on GitHub](https://github.com/pa
 
 ## Office & Availability
 
-- **Location:** [Your City, Country]
-- **Timezone:** [Your Timezone]
-- **Availability:** Available for [projects/opportunities] starting [Date]
+- **Location:** [Mungia, Spain]
+- **Timezone:** [GMT]
 
 *Looking forward to connecting with you!* 🚀
