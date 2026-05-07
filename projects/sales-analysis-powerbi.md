@@ -72,19 +72,11 @@ FactSales (millions of rows)
 - **Power Query** - Data transformation
 - **DAX (Data Analysis Expressions)** - Calculations and measures
 
-### Database
-- **SQL Server** - Data source
-- **SQL** - Data extraction and transformation
-- **T-SQL** - Complex queries and aggregations
-
 ### Data
 - **AdventureWorks Sample Database** - OLTP dataset
 - **Fact & Dimension Tables** - Star schema design
 - **Date Dimension** - Time intelligence
 
-### Tools & Version Control
-- **Git / GitHub** - Version control
-- **Power BI Service** - Cloud publishing (optional)
 
 ---
 
@@ -145,68 +137,6 @@ Product performance and trend analysis
 
 ---
 
-## SQL Queries
-
-### Query 1: Daily Sales Summary
-
-```sql
--- Daily sales aggregation with metrics
-SELECT 
-    CAST(soh.OrderDate AS DATE) AS SalesDate,
-    COUNT(DISTINCT soh.SalesOrderID) AS OrderCount,
-    COUNT(DISTINCT soh.CustomerID) AS UniqueCustomers,
-    SUM(sod.LineTotal) AS TotalSales,
-    SUM(sod.OrderQty) AS TotalQuantity,
-    AVG(sod.LineTotal) AS AvgLineValue
-FROM Sales.SalesOrderHeader soh
-INNER JOIN Sales.SalesOrderDetail sod ON soh.SalesOrderID = sod.SalesOrderID
-WHERE soh.OrderDate >= DATEADD(YEAR, -2, GETDATE())
-GROUP BY CAST(soh.OrderDate AS DATE)
-ORDER BY SalesDate DESC;
-```
-
-### Query 2: Sales by Territory
-
-```sql
--- Sales performance by territory
-SELECT 
-    st.Name AS Territory,
-    st.Region,
-    COUNT(DISTINCT soh.SalesOrderID) AS OrderCount,
-    SUM(sod.LineTotal) AS TotalSales,
-    COUNT(DISTINCT soh.CustomerID) AS CustomerCount,
-    ROUND(SUM(sod.LineTotal) / COUNT(DISTINCT soh.SalesOrderID), 2) AS AvgOrderValue
-FROM Sales.SalesOrderHeader soh
-INNER JOIN Sales.SalesOrderDetail sod ON soh.SalesOrderID = sod.SalesOrderID
-INNER JOIN Sales.Customer c ON soh.CustomerID = c.CustomerID
-INNER JOIN Sales.SalesTerritory st ON c.TerritoryID = st.TerritoryID
-WHERE soh.OrderDate >= DATEADD(YEAR, -1, GETDATE())
-GROUP BY st.TerritoryID, st.Name, st.Region
-ORDER BY TotalSales DESC;
-```
-
-### Query 3: Product Performance
-
-```sql
--- Product sales analysis
-SELECT TOP 20
-    p.ProductID,
-    p.Name AS ProductName,
-    pc.Name AS Category,
-    COUNT(DISTINCT sod.SalesOrderID) AS OrderFrequency,
-    SUM(sod.OrderQty) AS TotalQuantitySold,
-    SUM(sod.LineTotal) AS TotalRevenue,
-    ROUND(AVG(sod.UnitPrice), 2) AS AvgPrice,
-    ROUND(SUM(sod.LineTotal) / NULLIF(SUM(sod.OrderQty), 0), 2) AS AvgPricePerUnit
-FROM Sales.SalesOrderDetail sod
-INNER JOIN Production.Product p ON sod.ProductID = p.ProductID
-INNER JOIN Production.ProductCategory pc ON p.ProductCategoryID = pc.ProductCategoryID
-WHERE sod.ModifiedDate >= DATEADD(MONTH, -12, GETDATE())
-GROUP BY p.ProductID, p.Name, pc.Name
-ORDER BY TotalRevenue DESC;
-```
-
----
 
 ## DAX Formulas
 
@@ -300,17 +230,6 @@ RETURN
 - Mobile-optimized views
 - Export capabilities enabled
 
----
-
-## How This Project Demonstrates My Skills
-
-✅ **Business Intelligence:** Dashboard design and user-centered analytics
-✅ **SQL Proficiency:** Complex queries, aggregations, and data manipulation
-✅ **DAX Expertise:** Advanced formulas, time intelligence, and calculations
-✅ **Data Modeling:** Star schema design, relationships, and hierarchies
-✅ **Visualization Design:** Intuitive dashboards and interactive experiences
-✅ **Problem Solving:** Translating business requirements into technical solutions
-✅ **Communication:** Clear presentation of insights and actionable metrics
 
 ---
 
