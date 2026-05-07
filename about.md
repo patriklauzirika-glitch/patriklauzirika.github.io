@@ -8,7 +8,7 @@ permalink: /about/
 
 ## Professional Summary
 
-I am a Finance & Business Intelligence professional with expertise in transforming financial data into actionable insights. With a strong foundation in financial analysis and a passion for data-driven decision-making, I specialize in designing and implementing BI solutions that drive business value.
+I am a finance professional with over 8 years of experience in accounting, controlling, and financial reporting in industrial environments. Skilled in cost control, variance analysis, budgeting, and KPI monitoring to support decision-making. Experienced in SAP and data analysis tools (Excel, Power BI) and knowledge of programming languages (SQL, Python, R).
 
 ---
 
@@ -28,9 +28,7 @@ I am a Finance & Business Intelligence professional with expertise in transformi
 
 ### Technical Skills
 - **Databases & SQL:** Database design, complex queries, optimization
-- **Programming:** Python for data analysis and automation
 - **ETL & Data Engineering:** Data pipelines, data warehousing, data quality
-- **Tools & Platforms:** Azure, AWS, Git, Jupyter Notebooks
 - **Advanced Excel:** Complex formulas, pivot tables, data modeling
 
 ### Soft Skills
@@ -38,73 +36,67 @@ I am a Finance & Business Intelligence professional with expertise in transformi
 - Cross-functional Collaboration
 - Problem Solving & Analysis
 - Communication & Presentation
-- Project Management
-- Stakeholder Engagement
+
 
 ---
 
 ## Professional Experience
 
 ### Finance & Business Intelligence Professional
-**Your Company Name** | *Year - Present*
+**PKF Attest - Finance & Controlling** | *2020 - Present*
 
-- Developed and maintained Power BI dashboards for executive leadership, resulting in 40% faster reporting cycles
-- Designed and implemented financial forecasting models using Python and SQL
-- Created ETL pipelines to automate data extraction and transformation from multiple sources
-- Collaborated with finance and operations teams to identify data-driven improvement opportunities
-- Trained team members on BI tools and best practices
+- Preparation of financial reporting and active involvement in month-end closing processes within industrial environments
+- Cost control and variance analysis against budget
+- Monthly reporting and KPI monitoring
+- Participation in SAP implementation and user training
+- Treasury management, AR/AP control, and cash flow forecasting
 
-*Add your actual experience here*
+*Roles: Financial Technician (2025-Present) | Controlling Technician (2023-2024) | Financial Technician (2021-2022) | SAP Trainer (2020-2021)*
+
+---
+**Microsoft Norge A.S. (Oslo) - Channel & Device Marketing Assistant** | *12/2019 - 06/2020 (Global Training Program)*
+
+- Monitoring and tracking marketing investments across distribution channels
+- Development and maintenance of distributor-focused newsletters and reporting materials
+
+---
+**Arteche Group - Accounting Technician** | *01/2018 - 09/2019*
+
+- General accounting in SAP R3 environment
+- Financial reporting and month-end closing support
+- External audit support and tax compliance
 
 ---
 
 ## Education
 
-### Bachelor's Degree in [Your Field]
-**University Name** | *Graduation Year*
+### Master's Degree in Business Intelligence
+**UNIR - Universidad Internacional de La Rioja** | *2025*
 
-*Add your educational background*
+### Master's Degree in Finance
+**ESIC Escuela de Negocios** | *2021*
 
----
-
-## Certifications & Training
-
-- Power BI / Tableau Certification (optional)
-- SQL Advanced (optional)
-- Python Data Analysis (optional)
-- Finance & Accounting Certificate (optional)
-
-*Add your actual certifications*
+### Bachelor's Degree in Business Administration
+**UPV - EHU** | *2018*
 
 ---
 
-## Key Projects & Achievements
+## Tools & Skills
 
-### Financial Dashboard Implementation
-- Reduced reporting time from 2 weeks to 2 days
-- Increased data accessibility for 50+ users
-- Improved data accuracy through automated validation
-
-### Forecasting Model Development
-- Improved forecast accuracy by 25%
-- Automated monthly forecasting process
-- Enabled scenario planning capabilities
-
-### Data Infrastructure Optimization
-- Implemented automated ETL processes
-- Consolidated data from 5+ systems
-- Improved query performance by 60%
+- Advanced Excel
+- SAP R3 & SAP Business One
+- Power BI
+- Sage XRT
+- SQL
 
 ---
 
-## Continuous Learning
+## Languages
 
-I'm committed to staying current with industry trends and technologies:
-- Regular professional development in BI and data analytics
-- Active participation in finance and data communities
-- Exploration of emerging technologies (AI/ML in finance, advanced analytics)
-
----
+- Spanish - Native
+- Basque - Native
+- English - Advanced
+- French - Basic
 
 ## Ready to Collaborate?
 
