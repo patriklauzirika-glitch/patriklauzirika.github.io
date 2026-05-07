@@ -47,21 +47,8 @@ A comprehensive business intelligence dashboard designed to provide real-time in
 ### Data Model Structure
 
 ```
-FactSales (millions of rows)
-    ↓
-    ├── DimCustomer
-    ├── DimProduct
-    ├── DimDate
-    ├── DimTerritory
-    └── DimSalesReason
+<img width="604" height="394" alt="1 -Sales dashboard - star model" src="https://github.com/user-attachments/assets/5212760e-5118-44d6-97af-95e0c037ae98" />
 ```
-
-### Key Metrics (DAX)
-- **Total Sales:** Sum of all transaction amounts
-- **Order Count:** Number of orders
-- **Average Order Value:** Total Sales / Order Count
-- **Sales Growth:** YoY comparison
-- **Profit Margin:** Calculated from cost and revenue
 
 ---
 
