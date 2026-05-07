@@ -4,7 +4,7 @@ title: Finance & Business Intelligence Portfolio
 ---
 
 <section class="intro-section">
-    <h1>Patriklauzirika</h1>
+    <h1>Patrik Lauzirika Uriarte</h1>
     <p class="subtitle">Finance & Business Intelligence Professional</p>
     <p>
         Transforming complex financial data into actionable business insights. 
