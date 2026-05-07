@@ -37,8 +37,8 @@ title: Finance & Business Intelligence Portfolio
         <div class="skill-box">
             <h4>📊 Business Intelligence</h4>
             <ul>
-                <li>Power BI & Tableau</li>
-                <li>Dashboard Development</li>
+                <li>Power BI</li>
+                <li>Excel</li>
                 <li>KPI Tracking</li>
                 <li>Data Visualization</li>
             </ul>
