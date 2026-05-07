@@ -6,59 +6,152 @@ permalink: /projects/
 
 # My Projects
 
-Here are some of my featured Finance & Business Intelligence projects that showcase my expertise in data analytics, financial modeling, and BI implementation:
+A collection of my Finance & Business Intelligence projects showcasing expertise in data analytics, dashboard development, and data engineering.
+
+<div class="projects-grid">
+  <!-- Project Card 1 -->
+  <a href="/projects/sales-analysis-powerbi/" class="project-card">
+    <div class="project-card-content">
+      <div class="project-icon">📊</div>
+      <h3>Sales Analysis Dashboard</h3>
+      <p class="project-category">Power BI • SQL • Data Visualization</p>
+      <p class="project-description">Interactive sales analytics dashboard with real-time insights using Power BI and AdventureWorks dataset.</p>
+      <span class="learn-more">View Project →</span>
+    </div>
+  </a>
+
+  <!-- Project Card 2 (Template - Uncomment when ready) -->
+  <!-- 
+  <a href="/projects/your-project-slug/" class="project-card">
+    <div class="project-card-content">
+      <div class="project-icon">🔄</div>
+      <h3>Your Project Title</h3>
+      <p class="project-category">Technology • Stack</p>
+      <p class="project-description">Brief description of your project goes here.</p>
+      <span class="learn-more">View Project →</span>
+    </div>
+  </a>
+  -->
+
+  <!-- Project Card 3 (Template - Uncomment when ready) -->
+  <!-- 
+  <a href="/projects/another-project/" class="project-card">
+    <div class="project-card-content">
+      <div class="project-icon">💾</div>
+      <h3>Your Project Title</h3>
+      <p class="project-category">Technology • Stack</p>
+      <p class="project-description">Brief description of your project goes here.</p>
+      <span class="learn-more">View Project →</span>
+    </div>
+  </a>
+  -->
+
+</div>
+
+<style>
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 2rem;
+  margin: 3rem 0;
+}
+
+.project-card {
+  display: block;
+  background: white;
+  border-radius: 12px;
+  padding: 2rem;
+  border: 2px solid #e0e0e0;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.project-card:hover {
+  border-color: #00d4ff;
+  transform: translateY(-8px);
+  box-shadow: 0 12px 32px rgba(0, 212, 255, 0.15);
+}
+
+.project-card-content {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.project-icon {
+  font-size: 3rem;
+  line-height: 1;
+}
+
+.project-card h3 {
+  margin: 0;
+  font-size: 1.5rem;
+  color: #1e3a5f;
+  font-weight: 700;
+}
+
+.project-category {
+  margin: 0;
+  font-size: 0.85rem;
+  color: #00d4ff;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.project-description {
+  margin: 0;
+  font-size: 0.95rem;
+  color: #666;
+  line-height: 1.6;
+  flex-grow: 1;
+}
+
+.learn-more {
+  color: #00d4ff;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+.project-card:hover .learn-more {
+  color: #0099cc;
+}
+
+@media (max-width: 768px) {
+  .projects-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+}
+</style>
 
 ---
 
-## Project 1: Financial Dashboard & Reporting System
+## How to Add More Projects
 
-### Overview
-A comprehensive Business Intelligence dashboard providing real-time financial metrics, KPI tracking, and automated executive reporting capabilities for finance teams.
-
-### Technologies
-- **BI Tools:** Power BI / Tableau
-- **Backend:** SQL, Python
-- **Infrastructure:** Data Warehouse, Azure/AWS
-- **Integration:** Real-time data connections
-
-### Key Features
-- ✅ Real-time financial data visualization
-- ✅ Interactive KPI dashboards with drill-down capabilities
-- ✅ Automated monthly and quarterly reporting
-- ✅ Trend analysis and year-over-year comparisons
-- ✅ Budget vs. actual variance tracking
-- ✅ Multi-dimensional data analysis (by department, region, product)
-
-### Business Impact
-- **Reduced reporting time:** From 2 weeks to 2 days (-85%)
-- **Improved visibility:** Real-time insights instead of monthly updates
-- **Better decisions:** Stakeholders can analyze data independently
-- **Increased adoption:** 50+ daily active users
-
-### Technologies Used
+### Step 1: Create a new project page
+Create a new file in `/projects/` folder:
 ```
-Power BI / Tableau → SQL → Data Warehouse → Source Systems
+_posts/projects/your-project-slug.md
 ```
 
-**Repository:** [Link to GitHub repository]
+### Step 2: Use the template
+Copy the structure from `sales-analysis-powerbi.md` and update the content.
 
-
----
-
-## Project Categories
-
-| Category | Examples |
-|----------|----------|
-| 📊 **BI & Dashboards** | Power BI, data visualization |
-| 💰 **Financial Analysis** | Modeling, forecasting, variance analysis |
-| 📈 **Data Analytics** | Exploratory analysis, trend identification |
-| 🔄 **ETL & Data** | Pipelines, data warehousing, integration |
-| 🐍 **Python Scripts** | Data processing, automation, analysis |
+### Step 3: Add the card to this page
+Uncomment a template card above and update:
+- `href="/projects/your-project-slug/"`
+- Icon emoji
+- Title
+- Category
+- Description
 
 ---
 
-## Interested in Collaboration?
+## All Projects
 
-If you have an interesting Finance or BI project, need help with data analytics, or want to discuss data-driven solutions for your organization, I'd love to hear from you!
+Explore my work on [GitHub](https://github.com/patriklauzirika-glitch) or continue browsing the projects above.
 
-[Get in Touch](/contact/)
+For collaboration inquiries or project discussions, [contact me](/contact/).
