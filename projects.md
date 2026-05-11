@@ -129,29 +129,9 @@ A collection of my Finance & Business Intelligence projects showcasing expertise
 
 ---
 
-## How to Add More Projects
-
-### Step 1: Create a new project page
-Create a new file in `/projects/` folder:
-```
-_posts/projects/your-project-slug.md
-```
-
-### Step 2: Use the template
-Copy the structure from `sales-analysis-powerbi.md` and update the content.
-
-### Step 3: Add the card to this page
-Uncomment a template card above and update:
-- `href="/projects/your-project-slug/"`
-- Icon emoji
-- Title
-- Category
-- Description
-
----
 
 ## All Projects
 
-Explore my work on [GitHub](https://github.com/patriklauzirika-glitch) or continue browsing the projects above.
+Explore my work on [GitHub](https://github.com/plauzirikauriarte) or continue browsing the projects above.
 
 For collaboration inquiries or project discussions, [contact me](/contact/).
