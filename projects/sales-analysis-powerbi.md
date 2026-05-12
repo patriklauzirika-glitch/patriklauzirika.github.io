@@ -46,7 +46,7 @@ A comprehensive business intelligence dashboard designed to provide real-time in
 
 ### Data Model Structure
 
-<img src="/Power%20BI/Sales%20Dashboard/screenshots/1.-Sales%20dashboard%20-%20star%20model.png" 
+<img src="/Power%20BI/Sales%20Dashboard/screenshots/star-schema.png" 
      alt="Star Schema Data Model" 
      width="900">
 
