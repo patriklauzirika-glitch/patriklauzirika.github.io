@@ -106,20 +106,13 @@ A comprehensive business intelligence dashboard designed to provide real-time in
 
 ## Screenshots
 
-*(Add your dashboard screenshots here)*
+<img src="/projects/salesanalysisassets/sales-summary.png"
+     alt="Sales Summary"
+     width="900">
 
 ```
-[Screenshot 1: Executive Summary]
+[Screenshot 1: Sales Summary]
 KPIs displayed at the top with key metrics
-
-[Screenshot 2: Sales Analysis]
-Visualizations showing sales by category and territory
-
-[Screenshot 3: Regional Performance]
-Map visualization with regional metrics
-
-[Screenshot 4: Product Analytics]
-Product performance and trend analysis
 ```
 
 ---
