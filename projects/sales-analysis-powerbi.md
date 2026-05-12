@@ -233,18 +233,12 @@ RETURN
 
 ## Repository & Links
 
-📁 **GitHub Repository:** [Link to Repository]
+📁 **GitHub Repository:** [[Link to Repository](https://github.com/plauzirikauriarte)]
 
-🔗 **Power BI File:** [Link or Description]
-
-📊 **Live Dashboard:** [Power BI Service Link (if published)]
 
 ---
 
 ## Related Projects
-
-- [Financial Forecasting & Predictive Analytics](/projects/)
-- [ETL Data Pipeline & Data Warehouse](/projects/)
 
 ---
 
